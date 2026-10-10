@@ -22,7 +22,7 @@ int main()
 
     cout<<"Name : "<<name<<"\n";
     cout<<"Age : "<<age<<"\n";
-    cout<<"Height : "<<height<<"\n";
+    cout<<"Height : "<<height<<"\n";cout<<"Name : "<<name<<"\n";
     cout<<"Fees : "<<fees<<"\n";
 }
 
